@@ -1,0 +1,3 @@
+numpy
+pyserial
+opencv-python    # only for --target; on the Pi, sudo apt install python3-opencv also works
